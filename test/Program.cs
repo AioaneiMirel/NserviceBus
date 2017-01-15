@@ -12,8 +12,9 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a test!");
+            Console.WriteLine("This is a test no 1!");
             Console.WriteLine("This is a test no 2!");
+            Console.WriteLine("This is a test no 3!");
         }
     }
 }
